@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "webpack-coffee-react",
   "scripts": {
-    "start": "webpack-dev-server --quiet --content-base build/",
+    "start": "node server.js",
     "build": "webpack --config webpack.production.config.js",
     "clean": "rm build/bundle*"
   },
