@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2015 by original authors @ fontello.com</metadata>
+<defs>
+<font id="flexbox-playground" horiz-adv-x="1000" >
+<font-face font-family="flexbox-playground" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="plus" unicode="&#xe800;" d="m911 462l0-223-335 0 0-336-223 0 0 336-335 0 0 223 335 0 0 335 223 0 0-335 335 0z" horiz-adv-x="928" />
+<glyph glyph-name="minus" unicode="&#xe801;" d="m18 239l0 223 893 0 0-223-893 0z" horiz-adv-x="928" />
+<glyph glyph-name="remove" unicode="&#xe802;" d="m465 797q184 0 315-131t131-316-131-315-315-132-316 132-131 315 131 316 316 131z m220-588l-141 142 141 141-79 79-142-141-141 141-79-79 141-141-141-142 79-79 141 141 142-141z" horiz-adv-x="928" />
+<glyph glyph-name="triangle" unicode="&#xe803;" d="m18 797l670-446-670-448 0 894z" horiz-adv-x="705" />
+</font>
+</defs>
+</svg>
