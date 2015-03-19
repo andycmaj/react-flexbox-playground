@@ -1,5 +1,4 @@
 {ResizableBox}    = require 'react-resizable'
-FlexBoxStyleMixin = require './mixins/flexbox'
 FormsMixin        = require './mixins/form'
 Reflux            = require 'reflux'
 clone             = require 'lodash/lang/clone'
