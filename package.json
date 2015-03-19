@@ -1,7 +1,7 @@
 {
-  "name": "webpack-coffee-react",
+  "name": "react-flexbox-playground",
   "version": "1.0.0",
-  "description": "webpack-coffee-react",
+  "description": "react-flexbox-playground",
   "scripts": {
     "start": "node server.js",
     "build": "webpack --config webpack.production.config.js",
