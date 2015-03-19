@@ -32,7 +32,12 @@ module.exports = {
     loaders: [
       { test: /\.less$/, loader: 'style-loader!css-loader!less-loader'},
       { test: /\.cjsx$/, loaders: ['coffee', 'cjsx']},
-      { test: /\.coffee$/, loader: 'coffee' }
+      { test: /\.coffee$/, loader: 'coffee' },
+
+      { test: /\.woff($|\?)/,   loader: "url-loader?prefix=font/&limit=5000&mimetype=application/font-woff" },
+      { test: /\.ttf($|\?)/,    loader: "file-loader" },
+      { test: /\.eot($|\?)/,    loader: "file-loader" },
+      { test: /\.svg($|\?)/,    loader: "file-loader" }
     ]
   }
 };
